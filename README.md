@@ -1,6 +1,6 @@
 # Hi, I'm Bibin Antony 👋
 
-I'm a software engineer focused on building scalable web applications. I enjoy front-end development, APIs, and open-source.
+I'm a software engineer focused on building scalable web applications. I enjoy front-end, APIs, and open-source developments.
 
 ---
 
