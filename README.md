@@ -11,11 +11,7 @@ I'm a software engineer focused on building scalable web applications. I enjoy f
 - 🔹 Interests: Web performance, developer experience, OSS
 
 ## 🛠️ Tech stack
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js
-- Backend: Node.js, Express
-- Databases: PostgreSQL, MongoDB
-- Tools: Git, Docker, GitHub Actions
+CSS3 HTML5 GraphQL JavaScript TypeScript Java C AWS Azure Firebase Google Cloud Angular Bootstrap Express.js NodeJS jQuery NPM React Router React Native React Redux SASS RxJS Vue.js Webpack Yarn Nginx MicrosoftSQLServer Redis MySQL Postgres Figma Sketch Jira Babel Kubernetes Postman Swagger ESLint LINUX
 
 ## 🚀 Featured Projects
 - [project-one](https://github.com/yourname/project-one) — Short description of what it does.
