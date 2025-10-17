@@ -10,8 +10,22 @@ I'm a software engineer focused on building scalable web applications. I enjoy f
 - 🔹 Currently: Working at <Your Company> / Building <Project Name>
 - 🔹 Interests: Web performance, developer experience, OSS
 
-## 🛠️ Tech stack
-CSS3 HTML5 GraphQL JavaScript TypeScript Java C AWS Azure Firebase Google Cloud Angular Bootstrap Express.js NodeJS jQuery NPM React Router React Native React Redux SASS RxJS Vue.js Webpack Yarn Nginx MicrosoftSQLServer Redis MySQL Postgres Figma Sketch Jira Babel Kubernetes Postman Swagger ESLint LINUX
+## Tech Stack (Badges)
+
+<!-- Option A: Shields.io for-the-badge -->
+<p align="center">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<!-- Option B: skillicons.dev single-SVG -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,html,graphql,javascript,typescript,react,nodejs,aws,azure,postgres,mysql,kubernetes&perline=6&theme=dark" alt="tech stack" />
+</p>
 
 ## 🚀 Featured Projects
 - [project-one](https://github.com/yourname/project-one) — Short description of what it does.
